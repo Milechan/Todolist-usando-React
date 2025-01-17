@@ -1,0 +1,14 @@
+
+
+.Tarea{
+    background-color: pink;
+    width: 491px;
+    border: 1px solid gray;
+    height: 35px;
+    padding-left: 12px;
+    padding-right: 12px;
+    display:flex;
+    align-items: center;
+    justify-content:space-between ;
+
+}
